@@ -1,12 +1,10 @@
 #include <stdio.h>
-/*
- * main - main is the entry point
- * return - Sucess
- * function is to print a sentence
+/**
+ * main - program to print...
+ * return - sucess
  */
 int main(void)
 {
-puts(" \"Programming is like building a multilingual puzzle");
-return (0);
+puts(" \"Programming is like building a multilingual puzzle,");
+return(0);
 }
-
