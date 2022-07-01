@@ -1,1 +1,1 @@
-script that peints in liwer case
+script that print last digit
