@@ -1,1 +1,1 @@
-script that uses if statement
+script that peints in liwer case
