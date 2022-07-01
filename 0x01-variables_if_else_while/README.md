@@ -1,1 +1,1 @@
-script that prints alphabet in lowercase
+script to print numbers in base 10
