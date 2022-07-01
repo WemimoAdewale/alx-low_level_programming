@@ -1,1 +1,1 @@
-script that compikes a c fike but does not link it
+script that compiles a c file and creates an executable
