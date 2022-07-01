@@ -1,1 +1,1 @@
-script that prints programming is like multilingual
+script that weites a c program that prints
