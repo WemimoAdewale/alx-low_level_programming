@@ -1,1 +1,1 @@
-script to pront denary
+script that peint lowercase in reverse order
