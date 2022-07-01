@@ -1,1 +1,1 @@
-script that compiles a file and make as executable
+script that prints programming is like multilingual
