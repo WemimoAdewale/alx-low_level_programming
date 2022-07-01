@@ -1,1 +1,1 @@
-script that compiles a c file and creates an executable
+script that compiles a file and make as executable
