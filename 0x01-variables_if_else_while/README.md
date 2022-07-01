@@ -1,1 +1,1 @@
-script that print last digit
+script that prints alphabet in lowercase
