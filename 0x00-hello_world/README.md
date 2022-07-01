@@ -1,1 +1,1 @@
-script that weites a c program that prints
+script that print sizes of bytes
