@@ -1,1 +1,1 @@
-script that print sizes of bytes
+script that prints a quote
