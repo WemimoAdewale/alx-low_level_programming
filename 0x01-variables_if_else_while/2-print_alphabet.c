@@ -6,13 +6,12 @@
  */
 int main(void)
 {
-	int ch;
-
-	printf("Print in lower case\n ");
-	for (ch = 'a'; ch <= 'z'; ch++)
-{
-	putchar(ch);
-	putchar('\n');
-}
-return (0);
+       char d = 'a';
+       while (d <= 'z')
+       { 
+       putchar(d);
+       d++;
+       }
+       putchar('\n')
+       return (0);
 }
