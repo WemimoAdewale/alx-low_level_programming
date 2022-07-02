@@ -1,12 +1,11 @@
 #include <stdlib.h>
 #include <time.h>
 #include <stdio.h>
-
 /**
- * main - entry point of function
- *
- * return sucess
- */
+* main - print thte last digit of the number stored in a variable
+*
+* Return:Always 0 - success
+*/
 int main(void)
 {
 int ch;
@@ -24,4 +23,3 @@ putchar(10);
 
 return (0);
 }
-)
