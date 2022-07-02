@@ -1,1 +1,1 @@
-script that prints possible combination odf single numbers
+script that orints all combination of two digits
