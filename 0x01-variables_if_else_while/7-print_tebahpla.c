@@ -2,10 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 /**
- * Main : prints lowerxase in reverse order
- *
- * return : always
- **/
+* main - entry point
+*
+* Return: Always 0 - sucess
+*/
 int main(void)
 {
 char ch;
