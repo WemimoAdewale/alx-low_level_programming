@@ -1,10 +1,10 @@
 #include <stdlib.h>
 #include <stdio.h>
 /**
- * main - prints all single digit numbers of denary
- *
- * Return -Sucess
- **/
+* main - entry point
+*
+* Return:Always 0 sucess
+*/
 int main(void)
 {
 int ch;
