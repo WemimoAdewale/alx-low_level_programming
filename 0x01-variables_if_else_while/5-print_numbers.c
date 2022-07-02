@@ -1,10 +1,10 @@
-#include <stdlib>
+#include <stdlib.h>
 #include <stdio.h>
 /**
- *  Main : prints all digits of base 10 from 0
- *
- *  Return 0
- **/
+* main - prints all single digits numbers of base 10 starting from 0
+*
+* Return: Always 0 sucess
+*/
 int main(void)
 {
 char d = '0';
@@ -16,5 +16,4 @@ d++;
 }
 putchar('\n');
 return (0);
-}
-
+};
