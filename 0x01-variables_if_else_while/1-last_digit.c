@@ -3,10 +3,10 @@
 #include <stdio.h>
 
 /**
- * main - entry point
- *
- * return - sucess
- **/
+* main - print the last digit of number stored in n
+*
+* Return:Always 0 - sucess
+**/
 
 int main(void)
 {
