@@ -1,10 +1,10 @@
-#include <stdio.h>
-#include <time.h>
 #include <stdlib.h>
+#include <time.h>
+#include <stdio.h>
 /**
-* main - prints the alphabets in lower case
+* main - Prints alphabet in lower case
 *
-* Return:Always 0 sucess
+* Return: Always 0 sucess
 */
 int main(void)
 {
@@ -17,4 +17,4 @@ d++;
 }
 putchar('\n');
 return (0);
-} /
+}
