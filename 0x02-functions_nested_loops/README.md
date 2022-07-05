@@ -1,1 +1,1 @@
-script that prints sign of a number
+script that prints absolute value of a number
