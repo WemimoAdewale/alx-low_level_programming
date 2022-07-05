@@ -1,1 +1,1 @@
-script that prints absolute value of a number
+script that prnits last digit
