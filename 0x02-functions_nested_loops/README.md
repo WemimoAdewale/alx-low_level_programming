@@ -1,1 +1,1 @@
-script that prints alphabet 10 times
+script that checks if c is lowercase or uppercase
