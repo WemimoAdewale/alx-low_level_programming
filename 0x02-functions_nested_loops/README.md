@@ -1,1 +1,1 @@
-script to pront abc
+script that prints alphabet 10 times
