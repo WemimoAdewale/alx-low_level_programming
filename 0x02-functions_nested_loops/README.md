@@ -1,1 +1,1 @@
-script that checks if c is lowercase or uppercase
+script that prints sign of a number
