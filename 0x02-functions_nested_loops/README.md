@@ -1,1 +1,1 @@
-script that prnits last digit
+script that print every minute of the day
