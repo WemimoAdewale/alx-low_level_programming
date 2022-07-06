@@ -1,1 +1,1 @@
-script that print every minute of the day
+script that print 9 times table
