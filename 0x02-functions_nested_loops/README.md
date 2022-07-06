@@ -1,1 +1,1 @@
-script that add
+script that prints from n to 98
