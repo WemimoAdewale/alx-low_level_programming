@@ -1,1 +1,1 @@
-script that prints from n to 98
+script that print times table starting from n
