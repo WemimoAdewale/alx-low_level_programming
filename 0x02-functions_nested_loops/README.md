@@ -1,1 +1,1 @@
-script that prints eact term in fibonacci sequence
+script that finds the first 97 fibonacci numbers
