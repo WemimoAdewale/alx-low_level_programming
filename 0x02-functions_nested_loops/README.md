@@ -1,1 +1,1 @@
-script that print times table starting from n
+script that pist all mutiples of 3 and 5
