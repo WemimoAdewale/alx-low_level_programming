@@ -3,7 +3,7 @@
 * main - finds the sum of even valued terms
 * Return:0;
 */
-int main(voud)
+int main(void)
 {
 int i;
 unsigned long int j;
