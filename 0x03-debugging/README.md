@@ -1,1 +1,1 @@
-im learning to debug
+script that debugs an infinite loop
