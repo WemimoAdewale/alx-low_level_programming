@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* more_numbers a prints numbers between 1 and 14
+* more_numbers - a prints numbers between 1 and 14
 *
 * Return:void
 */
