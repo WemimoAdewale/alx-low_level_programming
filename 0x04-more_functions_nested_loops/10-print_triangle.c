@@ -1,6 +1,7 @@
 #include "main.h"
-/* print_triangle - check for a sigit
-* @n:integer
+/**
+* print_triangle - check for a sigit
+* @size:integer
 * Return:void
 */
 void print_triangle(int size)
