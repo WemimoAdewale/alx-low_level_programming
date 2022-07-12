@@ -1,1 +1,1 @@
-script that uses if statememt
+strings pointers and arrays
