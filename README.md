@@ -1,1 +1,1 @@
-strings pointers and arrays
+more pointers, finstiona amd arrays
