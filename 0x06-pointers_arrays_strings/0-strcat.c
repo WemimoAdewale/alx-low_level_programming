@@ -1,4 +1,5 @@
 #include "main.h"
+#include <stdio.h>
 /**
 * *_strcat - concatenates a string
 * @src:the source string to append
