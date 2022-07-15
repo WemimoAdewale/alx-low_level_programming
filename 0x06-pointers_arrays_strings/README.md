@@ -1,1 +1,1 @@
-script that concatenates
+sript that prints imtegers
