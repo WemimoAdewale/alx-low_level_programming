@@ -4,8 +4,9 @@
 * File: dog.h
 * Desc: Header file that defines a new type struct dog.
 */
+
 /**
-* struct dog - A new type describing a dog.
+* @struct dog - A new type describing a dog.
 * @name: the name of yhe dog
 * @age:the age of the fog
 * @owner:the owner of the dog
