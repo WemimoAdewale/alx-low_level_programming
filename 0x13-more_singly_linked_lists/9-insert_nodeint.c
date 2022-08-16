@@ -2,7 +2,7 @@
 /**
 * insert_nodeint_at_index - Inserts a new node to a listint_t
 * @head: pointer to address of the headd
-* @idx: index 
+* @idx: index
 * @n: the integer for the new node to contain
 * Return:NULL if function fails
 */
